@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on WingedDemonFox.dev</title>
+    <link>https://wingeddemonfox.github.io/blogs/</link>
+    <description>Recent content in Blogs on WingedDemonFox.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Feb 2021 07:06:02 +0100</lastBuildDate><atom:link href="https://wingeddemonfox.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>https://wingeddemonfox.github.io/blogs/welcome/</link>
+      <pubDate>Thu, 25 Feb 2021 07:06:02 +0100</pubDate>
+      
+      <guid>https://wingeddemonfox.github.io/blogs/welcome/</guid>
+      <description>Welcome, dear reader to my new blog.
+Here I will tell tales about various adventures through IT. The main focus will be on programming projects but I plan to branch off to other topics as well.
+Have a great day!</description>
+    </item>
+    
+    <item>
+      <title>Kotlin Adventures 1</title>
+      <link>https://wingeddemonfox.github.io/blogs/kotlin-adventure-1/</link>
+      <pubDate>Sun, 21 Jun 2020 21:12:38 +0100</pubDate>
+      
+      <guid>https://wingeddemonfox.github.io/blogs/kotlin-adventure-1/</guid>
+      <description>This is the beginning of my adventure with Kotlin and Mobile Development.
+After years of working as a Microsoft Dynamics CRM/365 developer and teaching myself WPF, I wanted to try something entirely new: Mobile Development.
+My first choice was Xamarin, but previous experience in an educational environment wasn&amp;rsquo;t great and with recent changes in the .NET environment I decided against it.
+So I started using Android Studio and Kotlin as programming language.</description>
+    </item>
+    
+  </channel>
+</rss>
