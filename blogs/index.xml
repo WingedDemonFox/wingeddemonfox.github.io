@@ -18,17 +18,5 @@ Here I will tell tales about various adventures through IT. The main focus will 
 Have a great day!</description>
     </item>
     
-    <item>
-      <title>Kotlin Adventures 1</title>
-      <link>https://wingeddemonfox.github.io/blogs/kotlin-adventure-1/</link>
-      <pubDate>Sun, 21 Jun 2020 21:12:38 +0100</pubDate>
-      
-      <guid>https://wingeddemonfox.github.io/blogs/kotlin-adventure-1/</guid>
-      <description>This is the beginning of my adventure with Kotlin and Mobile Development.
-After years of working as a Microsoft Dynamics CRM/365 developer and teaching myself WPF, I wanted to try something entirely new: Mobile Development.
-My first choice was Xamarin, but previous experience in an educational environment wasn&amp;rsquo;t great and with recent changes in the .NET environment I decided against it.
-So I started using Android Studio and Kotlin as programming language.</description>
-    </item>
-    
   </channel>
 </rss>
