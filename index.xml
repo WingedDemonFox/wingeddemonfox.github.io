@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WingedDemonFox.dev</title>
-    <link>https://wingeddemonfox.github.io/</link>
+    <link>https://wingeddemonfox.dev/</link>
     <description>Recent content on WingedDemonFox.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Feb 2021 07:06:02 +0100</lastBuildDate><atom:link href="https://wingeddemonfox.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Feb 2021 07:06:02 +0100</lastBuildDate><atom:link href="https://wingeddemonfox.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
-      <link>https://wingeddemonfox.github.io/blogs/welcome/</link>
+      <link>https://wingeddemonfox.dev/blogs/welcome/</link>
       <pubDate>Thu, 25 Feb 2021 07:06:02 +0100</pubDate>
       
-      <guid>https://wingeddemonfox.github.io/blogs/welcome/</guid>
+      <guid>https://wingeddemonfox.dev/blogs/welcome/</guid>
       <description>Welcome, dear reader to my new blog.
 Here I will tell tales about various adventures through IT. The main focus will be on programming projects but I plan to branch off to other topics as well.
 Have a great day!</description>
@@ -20,10 +20,10 @@ Have a great day!</description>
     
     <item>
       <title>About</title>
-      <link>https://wingeddemonfox.github.io/about/</link>
+      <link>https://wingeddemonfox.dev/about/</link>
       <pubDate>Mon, 22 Feb 2021 08:43:22 +0100</pubDate>
       
-      <guid>https://wingeddemonfox.github.io/about/</guid>
+      <guid>https://wingeddemonfox.dev/about/</guid>
       <description>Under construction
 Avatar by @ElRegex</description>
     </item>
