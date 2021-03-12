@@ -6,7 +6,19 @@
     <description>Recent content on WingedDemonFox.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Feb 2021 07:06:02 +0100</lastBuildDate><atom:link href="https://wingeddemonfox.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://wingeddemonfox.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin Adventures 1</title>
+      <link>https://wingeddemonfox.dev/posts/kotlin-adventure-1/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wingeddemonfox.dev/posts/kotlin-adventure-1/</guid>
+      <description>This is the beginning of my adventure with Kotlin and Mobile Development.
+After years of working as a Microsoft Dynamics CRM/365 developer and teaching myself WPF, I wanted to try something entirely new: Mobile Development.
+Before I tell you how I did anything without prior knowledge, I want to talk about what my goal was for this app.
+I wanted to have an overview during a battle in DnD with easy access to the following information:</description>
+    </item>
+    
     <item>
       <title>Welcome</title>
       <link>https://wingeddemonfox.dev/posts/welcome/</link>
