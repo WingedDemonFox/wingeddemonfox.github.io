@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on WingedDemonFox.dev</title>
-    <link>https://wingeddemonfox.dev/blogs/</link>
-    <description>Recent content in Blogs on WingedDemonFox.dev</description>
+    <title>Posts on WingedDemonFox.dev</title>
+    <link>https://wingeddemonfox.dev/posts/</link>
+    <description>Recent content in Posts on WingedDemonFox.dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 25 Feb 2021 07:06:02 +0100</lastBuildDate><atom:link href="https://wingeddemonfox.dev/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Feb 2021 07:06:02 +0100</lastBuildDate><atom:link href="https://wingeddemonfox.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
-      <link>https://wingeddemonfox.dev/blogs/welcome/</link>
+      <link>https://wingeddemonfox.dev/posts/welcome/</link>
       <pubDate>Thu, 25 Feb 2021 07:06:02 +0100</pubDate>
       
-      <guid>https://wingeddemonfox.dev/blogs/welcome/</guid>
+      <guid>https://wingeddemonfox.dev/posts/welcome/</guid>
       <description>Welcome, dear reader to my new blog.
 Here I will tell tales about various adventures through IT. The main focus will be on programming projects but I plan to branch off to other topics as well.
 Have a great day!</description>

@@ -5,14 +5,14 @@
     <link>https://wingeddemonfox.dev/</link>
     <description>Recent content on WingedDemonFox.dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 25 Feb 2021 07:06:02 +0100</lastBuildDate><atom:link href="https://wingeddemonfox.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
-      <link>https://wingeddemonfox.dev/blogs/welcome/</link>
+      <link>https://wingeddemonfox.dev/posts/welcome/</link>
       <pubDate>Thu, 25 Feb 2021 07:06:02 +0100</pubDate>
       
-      <guid>https://wingeddemonfox.dev/blogs/welcome/</guid>
+      <guid>https://wingeddemonfox.dev/posts/welcome/</guid>
       <description>Welcome, dear reader to my new blog.
 Here I will tell tales about various adventures through IT. The main focus will be on programming projects but I plan to branch off to other topics as well.
 Have a great day!</description>
@@ -21,7 +21,7 @@ Have a great day!</description>
     <item>
       <title>About</title>
       <link>https://wingeddemonfox.dev/about/</link>
-      <pubDate>Mon, 22 Feb 2021 08:43:22 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wingeddemonfox.dev/about/</guid>
       <description>Under construction
