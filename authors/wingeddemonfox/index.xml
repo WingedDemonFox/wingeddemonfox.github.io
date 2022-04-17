@@ -6,16 +6,23 @@
     <description>Recent content in WingedDemonFox on WingedDemonFox.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0200</lastBuildDate><atom:link href="https://wingeddemonfox.dev/authors/wingeddemonfox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wingeddemonfox.dev/authors/wingeddemonfox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Habit Hunting 1</title>
+      <link>https://wingeddemonfox.dev/posts/habithunting1/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wingeddemonfox.dev/posts/habithunting1/</guid>
+      <description>My next side project is a habit helper app</description>
+    </item>
+    
     <item>
       <title>Polyring</title>
       <link>https://wingeddemonfox.dev/posts/polyring_member/</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://wingeddemonfox.dev/posts/polyring_member/</guid>
-      <description>I&amp;rsquo;m a member of the Polyring as of today!
- Member of the Polyring webring
-  For more informations please visit here.</description>
+      <description>Joining Polyring</description>
     </item>
     
     <item>
@@ -24,10 +31,7 @@
       <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://wingeddemonfox.dev/posts/kotlin-adventure-1/</guid>
-      <description>This is the beginning of my adventure with Kotlin and Mobile Development.
-After years of working as a Microsoft Dynamics CRM/365 developer and teaching myself WPF, I wanted to try something entirely new: Mobile Development.
-Before I tell you how I did anything without prior knowledge, I want to talk about what my goal was for this app.
-I wanted to have an overview during a battle in DnD with easy access to the following information:</description>
+      <description>Starting Kotlin adventure</description>
     </item>
     
   </channel>

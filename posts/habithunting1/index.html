@@ -8,28 +8,28 @@
     
 
     <meta name="author" content="WingedDemonFox">
-    <meta name="description" content="Welcome">
+    <meta name="description" content="My next side project is a habit helper app">
     <meta name="keywords" content="">
 
     <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Welcome"/>
-<meta name="twitter:description" content="Welcome"/>
+<meta name="twitter:title" content="Habit Hunting 1"/>
+<meta name="twitter:description" content="My next side project is a habit helper app"/>
 
-    <meta property="og:title" content="Welcome" />
-<meta property="og:description" content="Welcome" />
+    <meta property="og:title" content="Habit Hunting 1" />
+<meta property="og:description" content="My next side project is a habit helper app" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://wingeddemonfox.dev/posts/welcome/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2021-02-25T07:06:02+01:00" />
-<meta property="article:modified_time" content="2021-02-25T07:06:02+01:00" />
+<meta property="og:url" content="https://wingeddemonfox.dev/posts/habithunting1/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-04-17T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-04-17T00:00:00+00:00" />
 
 
 
     <title>
-  Welcome · WingedDemonFox.dev
+  Habit Hunting 1 · WingedDemonFox.dev
 </title>
 
     
-      <link rel="canonical" href="https://wingeddemonfox.dev/posts/welcome/">
+      <link rel="canonical" href="https://wingeddemonfox.dev/posts/habithunting1/">
     
 
     <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.1.7" as="font" type="font/woff2" crossorigin>
@@ -117,8 +117,8 @@
       <header>
         <div class="post-title">
           <h1 class="title">
-            <a class="title-link" href="https://wingeddemonfox.dev/posts/welcome/">
-              Welcome
+            <a class="title-link" href="https://wingeddemonfox.dev/posts/habithunting1/">
+              Habit Hunting 1
             </a>
           </h1>
         </div>
@@ -126,26 +126,46 @@
           <div class="date">
             <span class="posted-on">
               <i class="fa fa-calendar" aria-hidden="true"></i>
-              <time datetime='2021-02-25T07:06:02&#43;01:00'>
-                February 25, 2021
+              <time datetime='2022-04-17T00:00:00Z'>
+                April 17, 2022
               </time>
             </span>
             <span class="reading-time">
               <i class="fa fa-clock-o" aria-hidden="true"></i>
-              One-minute read
+              2-minute read
             </span>
           </div>
-          
-          
-          
+          <div class="authors">
+    <i class="fa fa-user" aria-hidden="true"></i>
+      <a href="/authors/wingeddemonfox/">WingedDemonFox</a></div>
+          <div class="categories">
+  <i class="fa fa-folder" aria-hidden="true"></i>
+    <a href="/categories/mobile-development/">Mobile Development</a></div>
+
+          <div class="tags">
+  <i class="fa fa-tag" aria-hidden="true"></i>
+    <a href="/tags/.net-maui/">.NET MAUI</a></div>
+
         </div>
       </header>
 
       <div>
         
-        <p>Welcome, dear reader to my new blog.</p>
-<p>Here I will tell tales about various adventures through IT. The main focus will be on programming projects but I plan to branch off to other topics as well.</p>
-<p>Have a great day!</p>
+        <p>I decided to work on a more serious side project that should help me out personally.</p>
+<p>My goal is to create a habit helper app. I know there are others, for example Habitica but one thing that I really miss with them is the option to share tasks with members of my household.</p>
+<p>These are the core features I want to have. (At least for now, we all know how that can change in the future, especially with personal side projects):</p>
+<ul>
+<li>Be able to create tasks for yourself and set deadlines or repeatable</li>
+<li>Create tasks for your household</li>
+<li>Sync the tasks for the household (would be a bit useless without this)</li>
+<li>Have graphs to visualize stuff</li>
+<li>Be able to use the app offline and sync tasks for the household offline</li>
+<li>Be able to use all that online with a central server used for syncing (self hosted)</li>
+<li>Be able to export data</li>
+</ul>
+<p>I usually prefer desktop applications but for this project it has to be mobile first. Due to my work and also personal interest I have been looking at .NET MAUI lately. .NET MAUI is not fully released yet but should be out soon. Now with .NET MAUI I can build for Android, Windows, iOS and Mac. I will ignore iOS and Mac because I don&rsquo;t have any apple devices. I would have loved to also be able to build it for linux, but this has to wait. Maybe I will look at it with Avalonia UI once the very core system is implemented.</p>
+<p>The idea at the moment is to have the app getting the data from an ASP.NET web api (when it&rsquo;s being used online). Of course, I just realized that will be hard if I want to allow the same functionality offline. My idea was to have as few implementations needed in the app to make it easier for me. But while writing this I noticed I first need to focus on adding the functionality to the app. First I have to get the offline version running. Once I have that, I can either extract and rewrite it to use it &ldquo;online&rdquo;.</p>
+<p>I wonder how this project will go and how far I&rsquo;ll get with it. We will see! And once the project is somewhere I&rsquo;ll probably start pushing the code to github. Bye!</p>
 
       </div>
 

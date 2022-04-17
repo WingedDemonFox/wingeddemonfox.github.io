@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.NET MAUI on WingedDemonFox.dev</title>
+    <link>https://wingeddemonfox.dev/tags/.net-maui/</link>
+    <description>Recent content in .NET MAUI on WingedDemonFox.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wingeddemonfox.dev/tags/.net-maui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Habit Hunting 1</title>
+      <link>https://wingeddemonfox.dev/posts/habithunting1/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wingeddemonfox.dev/posts/habithunting1/</guid>
+      <description>My next side project is a habit helper app</description>
+    </item>
+    
+  </channel>
+</rss>
